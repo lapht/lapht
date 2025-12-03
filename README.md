@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lapht
 - 👀 I’m interested in Software Engineering and Cybersecurity
-- 🌱 I’m currently learning Angular 12
+- 🌱 I’m a full stack developer for fashion industry
 - 📫 How to reach me: lu.zani@hotmail.it
 
 <!---
